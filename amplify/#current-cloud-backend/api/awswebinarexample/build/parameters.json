@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "awswebinarexample",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-awswebinarexample-dev-211554-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/235803ddd5920906d3631173c1e4c4e643b3dc15"
+}

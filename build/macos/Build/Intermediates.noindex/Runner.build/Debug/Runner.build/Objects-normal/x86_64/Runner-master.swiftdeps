@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3df2170ef1185230fd655476d339e49b5b4e3c384ad0b7ca8d1febe7b4f03e17"
+build_start_time: [1680017255, 413272857]
+build_end_time: [1680017270, 761005878]
+inputs:
+  "/Users/mansnitz/amplify/flutter/aws_webinar_example/macos/Flutter/GeneratedPluginRegistrant.swift": [1680017209, 839594364]
+  "/Users/mansnitz/amplify/flutter/aws_webinar_example/macos/Runner/AppDelegate.swift": [1679506235, 0]
+  "/Users/mansnitz/amplify/flutter/aws_webinar_example/macos/Runner/MainFlutterWindow.swift": [1679506235, 0]
